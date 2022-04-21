@@ -1,0 +1,34 @@
+4	Sox	SoxX	SoxY	SoxZ	SoxA	SoxB	SoxC	SoxD
+5	oxDsr	oxDsrA	oxDsrB	oxDsrC	DsrE	DsrF	DsrH
+5	sHdr	sHdrA	sHdrB1	sHdrC1	sHdrH 	sHdrC2	sHdrC1
+5	sHdr	sHdrA	sHdrB1	sHdrC1	sHdrH 	sHdrC2	sHdrC1	sEtfA	sHdrCCG1
+3	LbpSy	LipS1	LipS2	GerGerRed	LplA
+3	oxDsrMK	oxDsrM	oxDsrK	oxDsrJ	oxDsrO	oxDsrP
+3	Soe	SoeA	SoeB	SoeC
+3	Sred	PsrAPhsASreA	PsrBPhsBSreB	PsrCPhsCSreC
+3	Asr	AsrA	AsrB	AsrC
+2	dApr	dAprA	dAprB	dSat
+3	dQmo	dQmoA	dQmoB	dQmoC
+3	dQmo	dQmoA	dQmoB	dqmoHdrB	dqmoHdrC
+2	SorAB	SorA	SorB
+2	FccAB	FccA	FccB
+2	SQR	SQR	SDO	Rhd
+3	Ttr	TtrA	TtrB	TtrC
+2	Apr	oxAprA	oxAprB
+2	Dox	DoxD	DoxA	Tth
+3	Tus	TusB	TusC	TusD
+3	redDsr	redDsrA	redDsrB	redDsrD	redDsrN
+2	redDsr	redDsrA	redDsrB	redDsrC
+3	redDsrMK	redDsrM	redDsrK	redDsrC	redDsrN
+3	redDsrMK	redDsrM	redDsrK	redDsrJ	redDsrO	redDsrP
+3	mHdr	mHdrA	mHdrB	mHdrC	FlxA	FlxB	FlxC	FlxD
+3	Flx	FlxA	FlxB	FlxC	FlxD
+3	Mcc	MccA	MccB	MccC
+3	mHdr	mHdrA	mHdrB	mHdrC
+3	MvH	MvhA	MvhB	MvhC	MvhD	MvhG
+3	Mcr	McrA	McrB	McrC	McrD	McrG
+2 	mHdrDE	mHdrD	mHdrE
+2	Tsd	TsdA	TsdB
+3	Qrc	QrcA	QrcB	QrcC	QrcD
+4	Hmc	HmcA	HmcB	HmcC	HmcD	HmcE	HmcF
+3	Tmc	TmcA	TmcB	TmcC	TmcD
