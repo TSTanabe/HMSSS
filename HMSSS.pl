@@ -411,7 +411,7 @@ sub help{
 my $message = <<'HELP_MESSAGE';
 HMSSS version 1.0
 
-Usage: perl CMSSS.pl 
+Usage: perl HMSSS.pl 
 
 The options can be defined in the Ini.txt file, but will be overwritten if a corresponding option is specified on the command line. Database connection options are required for the process and can be specified either in the Ini.txt file or on the command line.
 
