@@ -122,16 +122,19 @@ NCBI BLAST+ enables local usage of the BLAST algorithm. It is not necessarily re
 ```sudo apt-get install ncbi-blast+```
 
 ## Running HMS-S-S
-When run without a graphical user interface. With the exception of the local database login data and the target fasta file directory to be analyzed default values are defined by the program. To simplify the input of frequently used options, they can be stored in the **HMSSS.ini** file. these overwrite the default values of the program. Here you can enter the local database login data as well as all other options. If additional options are used in the command line that differ from the values specified in HMSSS.ini, the options from the command line are used by the program.
+HMSSS takes many options directly from the command line without the graphical interface. Except for the login data of the local database which are essential, all other options are not mandatory and can be executed with default values. It is recommended to give a path to the directory to be analyzed. Analysis can be started with the command:
 
+```perl HMSSS.pl -user Username -password Password -database Database_name -fasta_directory ~\directory ```
 
+**Input:** Directory with nucleotide fasta files or protein fasta and corresponding gff3 formatted files.
+           Suffix should be .fa, .fna, .fa.gz, .faa, .faa.gz, .gff or .gff.gz
+**Output:** 
 
+Possible options and the default values can be printed with the -h option.
 
-Workflow of HMS-S-S picture
+```perl HMSSS.pl -h```
 
-Output file
-Options that are accepted can be shown using the help function: ```perl HMSSS.pl -h```
-This will output the following text
+Which will output the following text.
  
 ```
 Options:
@@ -164,7 +167,7 @@ Protein sequence search
    -cleanreports	Remove hmmsearch report files after finishing search
    -redosearch		Search all files in the directory even if it is already 
    			in the database
-   -redoreports	Skip hmmsearch only use results from existing report files
+   -redoreports         Skip hmmsearch only use results from existing report files
    -prodigal		Translation nucleotide fasta with prodigal
    
 Gene cluster prediction and keyword assignment
@@ -182,6 +185,18 @@ Process control options
    			the fasta_directory path
    -output_DB_all	Output of all entrys in the database
 ```
+
+**HMSSS.ini** To simplify the input of frequently used options, they can be stored in the HMSSS.ini file. Parameters specified in this file will overwrite the default values of the program. If additional options are used in the command line that differ from the values specified in HMSSS.ini, the options from the command line are used by the program. The parameters should be written between the quotation marks in the .ini file.
+
+**Workflow** The processing steps of HMS-S-S are as followed:
+
+
+1. If prodigal is installed and HMSSS was started with -prodigal option, the ORF prediction and translation for nucleotide fasta files will be done and genomic features will be saved in a .gff3 file.
+2. All protein fasta files in the directory will be searched by hmmsearch consecutively with the specified HMM library
+3. Results will be stored in the local database, with the genomic features and the corresponding protein sequence 
+
+4. Gene clusters are predicted. Two genes are considered to be syntenic if they are within a maximum distance of nucleotides from each other.
+5. Keyword assignment. 
 
 
 ## Running HMS-S-S with graphical user interface
