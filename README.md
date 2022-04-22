@@ -122,6 +122,15 @@ NCBI BLAST+ enables local usage of the BLAST algorithm. It is not necessarily re
 ```sudo apt-get install ncbi-blast+```
 
 ## Running HMS-S-S
+When run without a graphical user interface
+
+The HMSSS.ini file.
+
+Command line options.
+
+Workflow of HMS-S-S
+
+Output file
 
 ```
 Options:
