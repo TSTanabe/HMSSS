@@ -123,4 +123,63 @@ NCBI BLAST+ enables local usage of the BLAST algorithm. It is not necessarily re
 
 ## Running HMS-S-S
 
+```
+Options:
+   -h or -help		Print the help dialog
+   
+Database Connection
+   -user		Mysql database user name
+   -password		Mysql database password
+   -database		Name of the Mysql database
+   
+Protein sequence search
+   -algorithm		Name of the search algorithm: hmmer or blastp
+   			(Default: hmmer)
+   -cutoff_type 	Options: standard_cutoff or evalue_cutoff or
+   		 	score_cutoff (Default: standard_cutoff)
+   			standard_cutoff requires a threshold file as input
+   			evalue_cutoff takes a constant evalue threshold from -cutoff
+   			score_cutoff takes a constant score threshold from -cutoff
+   			
+   -cutoff		Score or E-value for search cutoff (Default: 10)
+   -threshold_file	Path to tab separated file with threshold values for each HMM
+   			or query protein.
+   			Format: protein_type \t threshold (Default: /Thresholds)
+   			
+   -query_file		HMM library or fasta file for blastp (Default: HMMlib)
+   -fasta_directory	Directory with fasta files to be analysed (Default: /Genomes)
+   -gff3_directory	Directory with gff3 files if protein fasta is provided 
+   			(Default: /Genomes)
+   -cores		Number of cores used by hmmsearch (Default: 2)
+   -cleanreports	Remove hmmsearch report files after finishing search
+   -redosearch		Search all files in the directory even if it is already 
+   			in the database
+   -redoreports	Skip hmmsearch only use results from existing report files
+   -prodigal		Translation nucleotide fasta with prodigal
+   
+Gene cluster prediction and keyword assignment
+   -distance		Distance in nucleotides between two genes to considered
+   			them as a gene cluster	(Default: 3500)
+   -pattern_file	Keywords and patterns of synthenic genes
+   			(Default: /Patterns.txt)
+   -output_directory	Output directory for results from the searched fastas 
+   			(Default: /Output)
+            
+Process control options
+   -start_clustering	Start at the find synteny step
+   -start_keywords	Start at the keyword assignment step
+   -start_output	Start at the Output. Only outputs results from files in
+   			the fasta_directory path
+   -output_DB_all	Output of all entrys in the database
+```
+
+
 ## Running HMS-S-S with graphical user interface
+
+HMS-S-S has a graphical user interface that supports the program flow. The interface requires no installation but depends on the TK package and can be started directly from the directory with the command:
+
+```perl HMSSS_gui.pl```
+
+All input FASTA should be located in a single folder. Nucleotide FASTA formats must have a .fa, .fna, .fa.gz or .fna.gz file suffix. For protein FASTA format a .faa.gz suffix is required, as well as a corresponding gff3 file with the same filename but a gff3.gz file suffix. HMS-S-S will iteratively analyse all files in the directory.
+
+###
