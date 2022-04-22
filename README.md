@@ -122,16 +122,17 @@ NCBI BLAST+ enables local usage of the BLAST algorithm. It is not necessarily re
 ```sudo apt-get install ncbi-blast+```
 
 ## Running HMS-S-S
-When run without a graphical user interface
+When run without a graphical user interface. With the exception of the local database login data and the target fasta file directory to be analyzed default values are defined by the program. To simplify the input of frequently used options, they can be stored in the **HMSSS.ini** file. these overwrite the default values of the program. Here you can enter the local database login data as well as all other options. If additional options are used in the command line that differ from the values specified in HMSSS.ini, the options from the command line are used by the program.
 
-The HMSSS.ini file.
 
-Command line options.
 
-Workflow of HMS-S-S
+
+Workflow of HMS-S-S picture
 
 Output file
-
+Options that are accepted can be shown using the help function: ```perl HMSSS.pl -h```
+This will output the following text
+ 
 ```
 Options:
    -h or -help		Print the help dialog
