@@ -13,7 +13,7 @@ You can download HMS-S-S directly from GitHub.
 4. Start the script with option -h for further instructions on handling or read this manual: ```perl HMSSS.pl -h```
 5. Alternative to running the command line version a graphical user interface version can be started: ```perl HMSSS_gui.pl```
 
-##Prerequisites
+## Prerequisites
 Dependencies may already be installed by default, but all packages are listed for completeness.
 ### Perl
 
@@ -198,6 +198,8 @@ Process control options
 4. Gene clusters are predicted. Two genes are considered to be syntenic if they are within a maximum distance of nucleotides from each other.
 5. Keyword assignment. Given assemblies are searched each pattern of gene occurence defined in the Patterns.txt file. A genecluster matching one or several patterns is given one keyword for each match with a pattern.
 
+**Output**
+A tabular separated file is generated 
 
 ## Running HMS-S-S with graphical user interface
 
