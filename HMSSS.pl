@@ -286,7 +286,7 @@ if($DB_all || $size == 0){
 		}
 	
 }else{
-	$query = "SELECT Genomes.genome_ID, Proteins.protein_ID,Proteins.cluster_ID,Proteins.contig,Proteins.start,Proteins.end,Proteins.strand,Proteins.HMM,Proteins.score  FROM Proteins LEFT JOIN Genomes ON Proteins.genome_ID = Genomes.genome_ID WHERE Proteins.genome_ID = ? ORDER BY Proteins.genome_ID,contig,start ";
+	$query = "SELECT Genomes.genome_ID, Proteins.protein_ID,Proteins.cluster_ID,Proteins.contig,Proteins.start,Proteins.end,Proteins.strand,Proteins.HMM,Proteins.score,Proteins.sequence  FROM Proteins LEFT JOIN Genomes ON Proteins.genome_ID = Genomes.genome_ID WHERE Proteins.genome_ID = ? ORDER BY Proteins.genome_ID,contig,start ";
 	$mysql = $dbh->prepare($query);
 	foreach my $File (@$faaFiles){
 		my $genomeID = &getGenomeID($File);
