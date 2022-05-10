@@ -159,6 +159,7 @@ foreach my $File (@$plainfaaFiles){
 	&packgz($File);
 	my ($name,$dir,$ext) = fileparse($File, qr/\.[^.]*/);
 	if(-e "$dir$name\.gff"){&packgz("$dir$name\.gff");}
+	if(-e "$dir".&getGenomeID($name)."\.gff"){&packgz("$dir".&getGenomeID($name)."\.gff");}
 }
 
 #Get all faa.gz files in the fasta directory
