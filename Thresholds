@@ -71,6 +71,7 @@ LipS1	180
 PsrCPhsCSreC	191.5
 PsrBPhsBSreB	229
 PsrAPhsASreA	551
+AprM  40
 assAprB	68.5
 oxAprBII	251
 oxAprBI	169
@@ -92,7 +93,7 @@ LbpA1	103
 hypHdrT	210
 sHdrRSoxR	25
 sHdrI	10
-Hden0687	300
+sHdrJ	300
 GerGerRed	200
 GcvH	121
 FlxD	200
