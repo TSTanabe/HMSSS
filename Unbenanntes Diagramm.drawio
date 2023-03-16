@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T07:38:28.943Z" agent="5.0 (Windows)" etag="JArbBz_dmCdfYk9GP2Iv" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T09:37:23.608Z" agent="5.0 (Windows)" etag="TJ99vrwnS6p8sYIw1jLm" version="21.0.6" type="github">
   <diagram name="Seite-1" id="6OZWKTqBzTqwz66auKhD">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="30" dy="16" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,10 +67,10 @@
         <mxCell id="Ma1DHVfn-u75xHZ1rLLF-27" value="NCBI/GTDB or JGI taxonomy assignment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="410" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.666666666666666;endSize=4;width=0.3236245954692557;entryX=0.994;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.518;exitDx=0;exitDy=0;exitPerimeter=0;startSize=3;strokeWidth=1;fillColor=#000000;" edge="1" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-38">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.666666666666666;endSize=4;width=0.3236245954692557;entryX=1;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;strokeWidth=1;fillColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399.72" y="359.88" as="sourcePoint" />
-            <mxPoint x="398.0400000000001" y="343.55999999999995" as="targetPoint" />
+            <mxPoint x="399" y="363" as="sourcePoint" />
+            <mxPoint x="399" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ma1DHVfn-u75xHZ1rLLF-44" value="&lt;div&gt;Processing&lt;/div&gt;&lt;div&gt;&amp;amp; saving&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" vertex="1" parent="1">
