@@ -1,185 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T10:52:36.004Z" agent="5.0 (Windows)" etag="BpnMby_GJqmnQBwWdHVT" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T18:44:59.708Z" agent="5.0 (Windows)" etag="XU3hx6ekVIpZF6khQm1X" version="21.0.6" type="github">
   <diagram name="Seite-1" id="6OZWKTqBzTqwz66auKhD">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="490" width="720" height="430" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="54" y="490" width="720" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="720" height="320" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="54" y="160" width="720" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" width="720" height="150" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="54" width="720" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-62">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="580" as="sourcePoint" />
-            <mxPoint x="510" y="530" as="targetPoint" />
+            <mxPoint x="484" y="580" as="sourcePoint" />
+            <mxPoint x="534" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-49" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;protein &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;GFF3&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="414" y="30" width="80" height="100" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-49" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;protein &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;GFF3&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="438" y="30" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="285" width="280" height="160" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-38" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="124" y="285" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-2" value="Input data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="40" width="140" height="40" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-2" value="Input data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="64" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-3" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-4">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-3" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="89.5" as="sourcePoint" />
-            <mxPoint x="380" y="90" as="targetPoint" />
+            <mxPoint x="244" y="89.5" as="sourcePoint" />
+            <mxPoint x="404" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="170" as="sourcePoint" />
-            <mxPoint x="455" y="280" as="targetPoint" />
+            <mxPoint x="479" y="170" as="sourcePoint" />
+            <mxPoint x="479" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-6" value="HMMER3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="415" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-6" value="HMMER3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="439" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-10" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;protein &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;GFF3&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="80" height="100" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-10" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;protein &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;GFF3&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="424" y="40" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-11" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nucleotide &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="80" height="100" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-11" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 1px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;nucleotide &lt;br&gt;&lt;/div&gt;&lt;div&gt;FASTA&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="144" y="40" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-4">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="89.5" as="sourcePoint" />
-            <mxPoint x="380" y="90" as="targetPoint" />
+            <mxPoint x="244" y="89.5" as="sourcePoint" />
+            <mxPoint x="404" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-4" value="Prodigal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="260" y="75" width="80" height="30" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-4" value="Prodigal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="284" y="75" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-16" value="163 HMMs inorganic sulfur metabolism" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-16" value="163 HMMs inorganic sulfur metabolism" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="584" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-17" value="134 HMMs organic sulfur metabolism" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-17" value="134 HMMs organic sulfur metabolism" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="584" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-18" value="&lt;div&gt;custom HMMs&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-18" value="&lt;div&gt;custom HMMs&lt;/div&gt;&lt;div&gt;(optional)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="584" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-20" value="local database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="110" height="100" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-20" value="local database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="424" y="320" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-21" value="&lt;div&gt;multi-domain &lt;br&gt;&lt;/div&gt;&lt;div&gt;protein annotation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="110" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-21" value="&lt;div&gt;multi-domain &lt;br&gt;&lt;/div&gt;&lt;div&gt;protein annotation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="184" y="255" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-22" value="protein annotation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="235" y="260" width="110" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-22" value="protein annotation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="304" y="270" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-23" value="gene cluster prediction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="60" y="340" width="110" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-23" value="gene cluster prediction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="64" y="380" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-24" value="gene cluster naming by keywords" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="110" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-24" value="gene cluster naming by keywords" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="184" y="420" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-27" value="NCBI/GTDB or JGI taxonomy assignment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="235" y="420" width="110" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-27" value="NCBI/GTDB or JGI taxonomy assignment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="304" y="400" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.666666666666666;endSize=4;width=0.3236245954692557;entryX=1;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;strokeWidth=1;fillColor=#000000;" edge="1" parent="1">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8.666666666666666;endSize=4;width=0.3236245954692557;entryX=1;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;startSize=3;strokeWidth=1;fillColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="373" as="sourcePoint" />
-            <mxPoint x="379" y="359" as="targetPoint" />
+            <mxPoint x="403" y="373" as="sourcePoint" />
+            <mxPoint x="403" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-44" value="&lt;div&gt;Processing&lt;/div&gt;&lt;div&gt;&amp;amp; saving&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="140" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-44" value="&lt;div&gt;Processing&lt;/div&gt;&lt;div&gt;&amp;amp; saving&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="64" y="160" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-52">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Ma1DHVfn-u75xHZ1rLLF-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454" y="500" as="sourcePoint" />
-            <mxPoint x="454" y="610" as="targetPoint" />
+            <mxPoint x="478" y="500" as="sourcePoint" />
+            <mxPoint x="478" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-50" value="Output" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="140" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-50" value="Output" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="64" y="490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-52" value="&lt;div&gt;HMSS2 output&lt;/div&gt;&lt;div&gt;module&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="404" y="530" width="100" height="50" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-52" value="&lt;div&gt;HMSS2 output&lt;/div&gt;&lt;div&gt;module&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="428" y="530" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-53" value="protein types" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-53" value="protein types" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="84" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-54" value="gene cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="190" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-54" value="gene cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="214" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-55" value="presence/absence matrix per genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="464" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-55" value="presence/absence matrix per genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="488" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-56" value="abundance in taxonomic lineage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="464" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-56" value="abundance in taxonomic lineage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="488" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-57" value="gene cluster feature textfile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="464" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-57" value="gene cluster feature textfile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="488" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-59" value="Detection of sulfur metabolism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="170" width="120" height="37.5" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-59" value="Detection of sulfur metabolism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="584" y="170" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Protein FASTA by&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="126" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Protein FASTA by&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-63" value="&lt;div&gt;protein type &amp;amp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;genomic context&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="60" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-63" value="&lt;div&gt;protein type &amp;amp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;genomic context&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="84" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-64" value="single occurence in genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="60" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-64" value="single occurence in genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="84" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-65" value="multiple occurence in genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-65" value="multiple occurence in genome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="214" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Feature CSV files&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="464" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Feature CSV files&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="488" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-67" value="protein or gene cluster presence binary dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="599" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-67" value="protein or gene cluster presence binary dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="623" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-68" value="protein range dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="599" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-68" value="protein range dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="623" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-69" value="gene cluster display per species dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="599" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-69" value="gene cluster display per species dataset" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="623" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;iTol datasets&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="599" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;iTol datasets&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="623" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-71" value="merge files or concat sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-71" value="merge files or concat sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="348" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-72" value="add taxonomy information to sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-72" value="add taxonomy information to sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="348" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-73" value="show genomic context of sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-73" value="show genomic context of sequences" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="348" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FASTA file utility&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FASTA file utility&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="348" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-74">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-74" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="586" y="580" as="sourcePoint" />
-            <mxPoint x="636" y="530" as="targetPoint" />
+            <mxPoint x="610" y="580" as="sourcePoint" />
+            <mxPoint x="660" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-66">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="580" as="sourcePoint" />
-            <mxPoint x="720" y="530" as="targetPoint" />
+            <mxPoint x="694" y="580" as="sourcePoint" />
+            <mxPoint x="744" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-70">
+        <mxCell id="Ma1DHVfn-u75xHZ1rLLF-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ma1DHVfn-u75xHZ1rLLF-52" target="Ma1DHVfn-u75xHZ1rLLF-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="570" as="sourcePoint" />
-            <mxPoint x="600" y="520" as="targetPoint" />
+            <mxPoint x="574" y="570" as="sourcePoint" />
+            <mxPoint x="624" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0Qcf0seN13hxzT4ju1Sg-1" value="synteny&amp;nbsp; supported annotation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="64" y="305" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
