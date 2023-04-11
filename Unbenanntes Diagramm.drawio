@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T18:44:59.708Z" agent="5.0 (Windows)" etag="XU3hx6ekVIpZF6khQm1X" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T18:51:28.049Z" agent="5.0 (Windows)" etag="Iy4XeCD4G7-rpCDyvQQw" version="21.0.6" type="github">
   <diagram name="Seite-1" id="6OZWKTqBzTqwz66auKhD">
     <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="304" y="270" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ma1DHVfn-u75xHZ1rLLF-23" value="gene cluster prediction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="64" y="380" width="110" height="50" as="geometry" />
+          <mxGeometry x="64" y="370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ma1DHVfn-u75xHZ1rLLF-24" value="gene cluster naming by keywords" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="184" y="420" width="110" height="50" as="geometry" />
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Qcf0seN13hxzT4ju1Sg-1" value="synteny&amp;nbsp; supported annotation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="64" y="305" width="110" height="50" as="geometry" />
+          <mxGeometry x="64" y="295" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
